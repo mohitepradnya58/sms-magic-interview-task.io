@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon{
+    color: orangered;
+}
+.navposition{
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.why_to_choose{
+    background-color: rgb(228, 228, 241);
+    padding: 50px;
+}
+.device-text{
+    padding: 30px;
+    color: #fff;
+}
+.mobile-text{
+    color: #fff;
+}
+.img-card2, .card-img3{
+    height: 262px !important;
+}
+.card-text2{
+    padding: 30px;
+}
+.try{
+    margin-left: 30px;
+}
+.text_heading1{
+    color: brown;
+}
+.quote{
+    color: pink;
+}
+#trybtn:hover{
+background-color: rgb(62, 59, 249);
+border: transparent;
+color: #fff;
+}
+.image-girl{
+    height: 500px;
+}
+.position{
+    font-size: 15px;
+}
+.messaging_solution{
+    background-color: rgb(228, 228, 241);
+    padding: 20px;
+}
+.product_heading{
+    transform: translateY(50px);
+    background-color: #000;
+    color: #fff;
+    margin-left: 20px;
+    display: inline-block;
+    float: right;
+   padding: 5px;
+}
+
+.box{
+  
+    margin-left: 6px;
+}
+.heading-top{
+    color: rgb(222, 42, 72);
+}
+.learnbtn{
+    transform: translateY(-56px);
+    margin-left: 20px;
+}
+.mail-decoration{
+    text-decoration: none;
+    color: #000;
+}
+.customer_review{
+    box-shadow: 0 0 3px lightgrey;
+}
+
+.f1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #e2f3fa;
+    padding: 10px;
+}
+.f2{
+    background-color: #e2f3fa;
+    padding: 10px;
+}
+.footer_content{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.foter_contents{
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    position: fixed;
+    right: 35px;
+    bottom: 125px;
+}
+@media (max-width: 992px) {
+   .card-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+}
