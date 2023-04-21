@@ -7,6 +7,9 @@
     display: flex;
     align-items: center;
 }
+.search_bix{
+    width: 91px;
+}
 .icon{
     color: orangered;
 }
