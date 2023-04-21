@@ -108,7 +108,8 @@ color: #fff;
 .menu{
     position: fixed;
     right: 35px;
-    bottom: 125px;
+    bottom: 50px;
+   
 }
 @media (max-width: 992px) {
    .card-center{
